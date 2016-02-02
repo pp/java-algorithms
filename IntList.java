@@ -1,6 +1,7 @@
 public class IntList {
 
     private class ListNode {
+
         int elem;
         ListNode next = null;
 

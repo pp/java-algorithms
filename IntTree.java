@@ -139,6 +139,7 @@ public class IntTree {
                 nextLevel = new LinkedList<Node>();
             }
         }
+
     }
 
     private Node root = null;
